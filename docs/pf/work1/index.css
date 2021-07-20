@@ -30,6 +30,144 @@ body {
   top: 100px;
   left: 100px;
 }
+.shapes>.hexagon-1{
+  border:solid tomato;
+  margin-top: 450px;
+  margin-left: -420px;
+  width: 616px;
+  height: 533px;
+}
+.shapes>.hexagon-2{
+  border:solid tomato;
+  width:253px;
+  height: 219px;
+  margin-top: 830px;
+  margin-left: 180px;
+}
+.shapes>.hexagon-3{
+  border:solid tomato;
+  width:491px;
+  height: 425px;
+  margin-top: 1000px;
+  margin-left: 1450px;
+}
+.shapes>.hexagon-4{
+  border:solid tomato;
+  width:725px;
+  height: 625px;
+  margin-top: 100%;
+  margin-left: -150px;
+}
+.shapes>.hexagon-5{
+  border:solid tomato;
+  width:406px;
+  height:352px;
+  margin-top:105%;
+  margin-left: 1430px;
+}
+.shapes>.hexagon-6{
+  border:solid tomato;
+  width:375px;
+  height:325px;
+  margin-top:165%;
+  margin-left: 1650px;
+}
+.shapes>.hexagon-7{
+  border:solid tomato;
+  width:278px;
+  height:240px;
+  margin-top:204%;
+  margin-left: 1240px;
+}
+.shapes>.hexagon-8{
+  border:solid tomato;
+  
+  width:427px;
+  height:369px;
+  margin-top:310%;
+  margin-left: -100px;
+}
+.shapes>.hexagon-9{
+  border:solid tomato;
+  width:444px;
+  height:385px;
+  margin-top:350%;
+  margin-left:1500px;
+}
+.shapes>.hexagon-10{
+  border:solid tomato;
+  width:355px;
+  height:307px;
+  margin-top:353%;
+  margin-left:800px;
+}
+.shapes>.hexagon-11{
+  border:solid tomato;
+   width:607px;
+   height:526px;
+   margin-top:343%;
+   margin-left:-135px;
+ }
+ .shapes>.hexagon-12{
+  border:solid tomato;
+   width:607px;
+   height:526px;
+   margin-top:386%;
+   margin-left:1350px;
+   
+ }
+ .shapes>.hexagon-13{
+  border:solid tomato;
+   width:390px;
+   height:338px;
+   margin-top:469%;
+   margin-left:1480px;
+   
+ }
+ .shapes>.hexagon-14{
+  border:solid tomato;
+   width:563px;
+   height:488px;
+   margin-top:425%;
+   margin-left:-70px;
+   
+ }
+ .shapes>.hexagon-15{
+  border:solid tomato;
+   width:529px;
+   height:458px;
+   margin-top:505%;
+   margin-left:100px;
+   
+ }
+ .shapes>.hexagon-16{
+  border:solid tomato;
+   width:241px;
+   height:209px;
+   margin-top:575%;
+   margin-left:0px;
+   
+ }
+ .shapes>.hexagon-17{
+  border:solid tomato;
+   width:422px;
+   height:366px;
+   margin-top:558%;
+   margin-left:1500px;
+   
+ }
+ .shapes>.hexagon-18{
+  border:solid tomato;
+   width:529px;
+   height:458px;
+   margin-top:502%;
+   margin-left:1500px;
+   
+ }
+
+
+
+
 
 .txt_1_1 {
   border: 1px solid red;
