@@ -148,14 +148,13 @@ body {
 
 .bn_4_1{
   border: 1ps solid;
-  width: 510px;
+  width: 600px;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: 120px;
+  bottom: 3500px;
   position: absolute;
-  bottom: 0;
-  margin-bottom: 2500px;
 }
 
 .bn_4_2{
@@ -163,4 +162,15 @@ body {
   width: 1200px;
   margin-top: 100px;
   margin-left: 120px;
+}
+
+.bn_5_1{
+  width: 450px;
+  margin-left: 120px;
+  margin-top: 120px;
+}
+
+.bn_5_2{
+  width: 1200px;
+  margin-top: 120px;
 }
