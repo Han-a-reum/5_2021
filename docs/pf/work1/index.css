@@ -118,3 +118,15 @@ body {
   position: absolute;
   margin-top: 120px;
 }
+
+
+.txt_4_1{
+  border: 1px solid blue;
+  width: 300px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1800px;
+}
