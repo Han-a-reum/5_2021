@@ -71,3 +71,22 @@ body {
   margin-right: auto;
   margin-top: 120px;
 }
+
+.txt_3_1{
+  border: 1px solid yellow;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+}
+
+.txt_3_2{
+  border: 1px solid orange;
+  width: 1200px;
+  margin-left: 150px;
+}
+
+.bn_2_1{
+  border: 1px solid darkcyan;
+  width: 450px;
+}
