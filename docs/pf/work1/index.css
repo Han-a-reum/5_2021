@@ -231,3 +231,39 @@ border:10px solid blue;
 .section-8 > div:last-child {
   margin-top: 200px;
 }
+
+.section-9 {
+  margin-top:120px;
+}
+
+.section-9 > div:nth-child(2) {
+  margin-top: 120px;
+}
+
+.section-10 {
+  margin-top: 120px;
+  position: relative;
+  height: 1550px;
+  border:10px solid gold;
+}
+
+.section-10 > div:first-child {
+  border:5px solid blue;
+}
+
+.section-10 div:first-child > img {
+  width: 65%;
+  margin-left: auto;
+  margin-right: 100px;
+}
+
+.section-10 > div:last-child {
+  border:5px solid red;
+}
+
+.section-10 > div:last-child > img {
+  position:absolute;
+  top:400px;
+  left:100px;
+  width: 82%;
+}
