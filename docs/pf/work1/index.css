@@ -188,6 +188,7 @@ body {
   margin-left: 1300px;
   bottom:0;
   position: absolute;
+  margin-bottom: 2200px;
 }
 
 .section-7 {
@@ -229,9 +230,4 @@ border:10px solid blue;
 
 .section-8 > div:last-child {
   margin-top: 200px;
-=======
-.bn_5_3{
-  width: 900px;
-  margin-left: 120px;
-  margin-top: 250px;
 }
