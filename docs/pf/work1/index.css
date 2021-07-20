@@ -1,21 +1,38 @@
-body{
+:root {
+  --site-width: calc(1920px - 16px);
+}
+
+body {
+  background-image: linear-gradient(to bottom, skyblue, #fff);
+  background-repeat: no-repeat;
+  background-size: var(--site-width) auto;
+
+  /* 임시 */
+  min-height:20000px;
+}
+
+/* https://site8.blog.oa.gg/pf/insideout/#anchor2 */
+
+/*
+body {
   height: 500vh;
 }
 
-.hd-bg-img-1 >img:first-child{
+.hd-bg-img-1>img:first-child {
   position: relative;
 }
 
-.hd-bg-img-1 > img:last-child{
+.hd-bg-img-1>img:last-child {
   position: absolute;
   z-index: 1;
   top: 0;
 }
 
-.hd-text{
+.hd-text {
   width: 400px;
   z-index: 2;
   position: absolute;
   top: 700px;
   left: 400px;
 }
+*/
