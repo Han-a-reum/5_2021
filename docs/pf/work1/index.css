@@ -83,7 +83,8 @@ body {
 .txt_3_2 {
   border: 1px solid orange;
   width: 1150px;
-  margin-left: 150px;
+  margin-left: 130px;
+  margin-top: 30px;
 }
 
 .bn_2_1 {
@@ -93,21 +94,21 @@ body {
   left: 0;
   right: 0;
   margin-left: auto;
-  margin-right: 120px;
+  margin-right: 130px;
   bottom: 0;
-  margin-bottom: 600px;
 }
 
 .txt_3_3 {
   border: 1px solid darkviolet;
-  width: 600px;
-  margin-left: 150px;
-  margin-top: 70px;
+  width: 520px;
+  margin-left: 130px;
+  margin-top: 30px;
 }
 
 .txt_3_4 {
   border: 1px solid deeppink;
-  width: 600px;
-  margin-left: 800px;
+  width: 500px;
+  margin-left: 750px;
   position: absolute;
+  bottom:0;
 }
