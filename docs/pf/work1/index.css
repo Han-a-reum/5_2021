@@ -139,7 +139,6 @@ body {
 .txt_4_1{
   border: 1px solid blue;
   width: 300px;
-  position: absolute;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -155,4 +154,13 @@ body {
   margin-left: auto;
   margin-right: 120px;
   position: absolute;
+  bottom: 0;
+  margin-bottom: 2500px;
+}
+
+.bn_4_2{
+  border:1px solid coral;
+  width: 1200px;
+  margin-top: 100px;
+  margin-left: 120px;
 }
