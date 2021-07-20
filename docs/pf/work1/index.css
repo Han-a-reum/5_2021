@@ -112,3 +112,9 @@ body {
   position: absolute;
   bottom:0;
 }
+
+.bn_3_1{
+  border: 2px solid white;
+  position: absolute;
+  margin-top: 120px;
+}
