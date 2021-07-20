@@ -148,10 +148,11 @@ body {
 }
 
 .bn_4_1{
+  border: 1ps solid;
   width: 510px;
-  position: absolute;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: 120px;
+  position: absolute;
 }
