@@ -3,12 +3,28 @@
 }
 
 body {
-  background-image: linear-gradient(to bottom, skyblue, #fff);
+  background-image: linear-gradient(to bottom, #BAE7FF 0%, #fff 50%, #9254DE 100%);
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
 
   /* 임시 */
-  min-height:20000px;
+  min-height:20500px;
+}
+
+.site-wrap {
+  position: relative;
+  width:var(--site-width);
+  z-index: 0;
+}
+
+.hexagon {
+  position: absolute;
+  z-index: -1;
+}
+
+.site-wrap .hexagon-1 {
+  top:100px;
+  left:100px;
 }
 
 /* https://site8.blog.oa.gg/pf/insideout/#anchor2 */
