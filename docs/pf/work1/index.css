@@ -2,8 +2,20 @@ body{
   height: 500vh;
 }
 
+.hd-bg-img-1 >img:first-child{
+  position: relative;
+}
+
 .hd-bg-img-1 > img:last-child{
   position: absolute;
-  z-index: 5;
+  z-index: 1;
   top: 0;
+}
+
+.hd-text{
+  width: 400px;
+  z-index: 2;
+  position: absolute;
+  top: 700px;
+  left: 400px;
 }
