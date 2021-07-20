@@ -139,7 +139,6 @@ body {
 .txt_4_1{
   border: 1px solid blue;
   width: 300px;
-  position: absolute;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -154,4 +153,45 @@ body {
   right: 0;
   margin-left: auto;
   margin-right: 120px;
+}
+
+.section-7 {
+  margin-top:120px;
+  display: flex;
+}
+
+.section-7 > div {
+  border:10px solid violet;
+}
+
+.section-7 > div > img {
+  width: 85%;
+  display: block;
+}
+
+.section-7 > div:nth-child(1) > img {
+  margin-left: auto;
+  margin-top:100px;
+}
+
+.section-7 > div:nth-child(2) > img {
+  margin: 0 auto;
+}
+
+.section-7 > div:nth-child(3) > img {
+  margin-right: auto;
+  margin-top:100px;
+}
+
+.section-8 {
+  margin-top:120px;
+  display: flex;
+}
+
+.section-8 > div {
+border:10px solid blue;
+}
+
+.section-8 > div:last-child {
+  margin-top: 200px;
 }
