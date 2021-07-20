@@ -72,6 +72,13 @@ body {
   margin-top: 120px;
 }
 
+.section-3 {
+  border: 10px solid red;
+  width: 100%;
+  height: 1150px;
+  position: relative;
+}
+
 .txt_3_1 {
   border: 1px solid yellow;
   width: 400px;
@@ -91,11 +98,11 @@ body {
   border: 1px solid darkcyan;
   width: 450px;
   position: absolute;
+  top: 195px;
   left: 0;
   right: 0;
   margin-left: auto;
   margin-right: 130px;
-  bottom: 0;
 }
 
 .txt_3_3 {
@@ -110,15 +117,24 @@ body {
   width: 500px;
   margin-left: 750px;
   position: absolute;
-  bottom:0;
+  bottom: 7px;
 }
 
-.bn_3_1{
+.bn_3_1 {
   border: 2px solid white;
-  position: absolute;
   margin-top: 120px;
 }
 
+.section-6>div {
+  border: 2px solid red;
+  margin-top: 120px;
+}
+
+.section-6>div>img {
+  width: 97%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .txt_4_1{
   border: 1px solid blue;
@@ -129,4 +145,14 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 1800px;
+}
+
+.bn_4_1{
+
+  width: 510px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: 120px;
 }
