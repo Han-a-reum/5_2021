@@ -2,11 +2,15 @@
   --site-width: calc(1920px - 16px);
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-image: linear-gradient(to bottom, #BAE7FF 0%, #fff 50%, #9254DE 100%);
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
-
+  overflow-x: hidden;
   /* 임시 */
   min-height: 20500px;
 }
@@ -29,13 +33,15 @@ body {
 
 .txt_1_1 {
   border: 1px solid red;
-  width: 700px;
+  position: absolute;
+  width: 800px;
   margin: 0 300px;
+  margin-top: -100px;
 }
 
 .bn_1_1{
   border:1px solid blue;
-  width: 500px;
+  width: 600px;
   position: absolute;
   left: auto;
   right: 0;
