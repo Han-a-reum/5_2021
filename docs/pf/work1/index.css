@@ -8,12 +8,12 @@ body {
   background-size: var(--site-width) auto;
 
   /* 임시 */
-  min-height:20500px;
+  min-height: 20500px;
 }
 
 .site-wrap {
   position: relative;
-  width:var(--site-width);
+  width: var(--site-width);
   z-index: 0;
 }
 
@@ -23,8 +23,16 @@ body {
 }
 
 .site-wrap .hexagon-1 {
-  top:100px;
-  left:100px;
+  top: 100px;
+  left: 100px;
+}
+
+
+.txt_1_1 {
+  border: 1px solid red;
+  width: 500px;
+  left: 400px;
+  right: auto;
 }
 
 /* https://site8.blog.oa.gg/pf/insideout/#anchor2 */
