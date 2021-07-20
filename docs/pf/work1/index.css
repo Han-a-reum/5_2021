@@ -1,3 +1,9 @@
-body {
-  
+body{
+  height: 500vh;
+}
+
+.hd-bg-img-1 > img:last-child{
+  position: absolute;
+  z-index: 5;
+  top: 0;
 }
