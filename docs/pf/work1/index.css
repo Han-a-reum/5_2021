@@ -120,11 +120,6 @@ body {
   bottom: 7px;
 }
 
-.bn_3_1 {
-  border: 2px solid white;
-  margin-top: 120px;
-}
-
 .section-6>div {
   border: 2px solid red;
   margin-top: 120px;
@@ -134,6 +129,17 @@ body {
   width: 97%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.section-4 {
+  position: relative;
+  height: 2860px;
+  border:10px solid gold;
+}
+
+.bn_3_1 {
+  border: 2px solid white;
+  margin-top: 120px;
 }
 
 .txt_4_1{
@@ -147,8 +153,9 @@ body {
 }
 
 .bn_4_1{
-  border: 1ps solid;
+  border: 1px solid brown;
   width: 600px;
+  top:1250px;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -162,6 +169,12 @@ body {
   width: 1200px;
   margin-top: 100px;
   margin-left: 120px;
+}
+
+.section-5_1 {
+  position:relative;
+  height: :1000px;
+  border:5px solid red;
 }
 
 .bn_5_1{
@@ -184,9 +197,9 @@ body {
 .bn_5_4{
   border: 10px solid;
   width: 500px;
+  top:-150px;
   left: 0;
   margin-left: 1300px;
-  bottom:0;
   position: absolute;
   margin-bottom: 2200px;
 }
