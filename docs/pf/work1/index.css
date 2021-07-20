@@ -27,14 +27,19 @@ body {
   left: 100px;
 }
 
-
 .txt_1_1 {
   border: 1px solid red;
   width: 500px;
-  left: 400px;
-  right: auto;
+  margin: 0 400px;
 }
 
+.bn_1_1{
+  border:1px solid blue;
+  width: 500px;
+  margin-left: auto;
+  margin-right: 100px;
+
+}
 /* https://site8.blog.oa.gg/pf/insideout/#anchor2 */
 
 /*
