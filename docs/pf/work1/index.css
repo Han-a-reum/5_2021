@@ -246,6 +246,9 @@ border:10px solid blue;
 
 .section-9 {
   margin-top:120px;
+}
+
+.section-9 > div:first-child{
   border: 10px solid salmon;
   width: 1780px;
   margin-left: auto;
