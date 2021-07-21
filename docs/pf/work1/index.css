@@ -245,24 +245,18 @@ body {
   margin-right: 130px;
 }
 
-/* 비디오 작업 */
-.bn_2_1 > video {
-  margin-top: -1020px;
-  margin-left: 35px;
-  width: 440px;
-}
-
 .txt_3_3 {
   width: 515px;
   margin-left: 130px;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .txt_3_4 {
   width: 520px;
   margin-left: 750px;
   position: absolute;
-  bottom: 167px;
+  left:0;
+  bottom: 151px;
 }
 
 .section-6>div {
