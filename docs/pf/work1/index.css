@@ -38,16 +38,15 @@ body {
   height: 533px;
 }
 
-.shapes>.hexagon-2{
-  border:solid tomato;
-  width:491px;
+.shapes>.hexagon-2 {
+  border: solid tomato;
+  width: 491px;
   height: 425px;
   margin-top: 920px;
   margin-left: 1330px;
 }
-<<<<<<< HEAD
 
-.shapes>.hexagon-4 {
+<<<<<<< HEAD .shapes>.hexagon-4 {
   border: solid tomato;
   width: 725px;
   height: 625px;
@@ -174,181 +173,196 @@ body {
   margin-left: 1500px;
 
 }
-=======
-.shapes>.hexagon-3{
-  border:solid tomato;
-  width:725px;
+
+=======.shapes>.hexagon-3 {
+  border: solid tomato;
+  width: 725px;
   height: 628px;
   margin-top: 103%;
   margin-left: -20px;
 }
-.shapes>.hexagon-4{
-  border:solid tomato;
-  width:406px;
-  height:352px;
-  margin-top:105%;
+
+.shapes>.hexagon-4 {
+  border: solid tomato;
+  width: 406px;
+  height: 352px;
+  margin-top: 105%;
   margin-left: 1430px;
 }
-.shapes>.hexagon-5{
-  border:solid tomato;
-  width:375px;
-  height:325px;
-  margin-top:165%;
+
+.shapes>.hexagon-5 {
+  border: solid tomato;
+  width: 375px;
+  height: 325px;
+  margin-top: 165%;
   margin-left: 1530px;
 }
-.shapes>.hexagon-6{
-  border:solid tomato;
-  width:278px;
-  height:240px;
-  margin-top:204%;
+
+.shapes>.hexagon-6 {
+  border: solid tomato;
+  width: 278px;
+  height: 240px;
+  margin-top: 204%;
   margin-left: 1240px;
 }
-.shapes>.hexagon-7{
-  border:solid tomato;
-  
-  width:427px;
-  height:369px;
-  margin-top:310%;
+
+.shapes>.hexagon-7 {
+  border: solid tomato;
+
+  width: 427px;
+  height: 369px;
+  margin-top: 310%;
   margin-left: -100px;
 }
-.shapes>.hexagon-8{
-  border:solid tomato;
-  width:444px;
-  height:385px;
-  margin-top:350%;
-  margin-left:1500px;
+
+.shapes>.hexagon-8 {
+  border: solid tomato;
+  width: 444px;
+  height: 385px;
+  margin-top: 350%;
+  margin-left: 1500px;
 }
-.shapes>.hexagon-9{
-  border:solid tomato;
-  width:355px;
-  height:307px;
-  margin-top:353%;
-  margin-left:800px;
+
+.shapes>.hexagon-9 {
+  border: solid tomato;
+  width: 355px;
+  height: 307px;
+  margin-top: 353%;
+  margin-left: 800px;
 }
-.shapes>.hexagon-10{
-  border:solid tomato;
-   width:607px;
-   height:526px;
-   margin-top:343%;
-   margin-left:-135px;
- }
- .shapes>.hexagon-11{
-  border:solid tomato;
-   width:607px;
-   height:526px;
-   margin-top:386%;
-   margin-left:1350px;
-   
- }
- .shapes>.hexagon-12{
-  border:solid tomato;
-   width:390px;
-   height:338px;
-   margin-top:469%;
-   margin-left:1480px;
-   
- }
- .shapes>.hexagon-13{
-  border:solid tomato;
-   width:563px;
-   height:488px;
-   margin-top:425%;
-   margin-left:-70px;
-   
- }
- .shapes>.hexagon-14{
-  border:solid tomato;
-   width:529px;
-   height:458px;
-   margin-top:505%;
-   margin-left:100px;
-   
- }
- .shapes>.hexagon-15{
-  border:solid tomato;
-   width:241px;
-   height:209px;
-   margin-top:575%;
-   margin-left:0px;
-   
- }
- .shapes>.hexagon-16{
-  border:solid tomato;
-   width:422px;
-   height:366px;
-   margin-top:558%;
-   margin-left:1501px;
-   
- }
- .shapes>.hexagon-17{
-  border:solid tomato;
-   width:529px;
-   height:458px;
-   margin-top:502%;
-   margin-left:1500px;
-   
- }
- .shapes>.hexagon-18{
-  border:solid tomato;
-   width:549px;
-   height:476px;
-   margin-top:592%;
-   margin-left:-105px;
-   
- }
- .shapes>.hexagon-19{
-  border:solid tomato;
-   width:279px;
-   height:242px;
-   margin-top:619%;
-   margin-left:380px;
-   
- }
- .shapes>.hexagon-20{
-  border:solid tomato;
-   width:306px;
-   height:265px;
-   margin-top:595%;
-   margin-left:1660px;
-   
- }
- .shapes>.hexagon-21{
-  border:solid tomato;
-   width:529px;
-   height:458px;
-   margin-top:621%;
-   margin-left:1500px;
-   
- }
- .shapes>.hexagon-22{
-  border:solid tomato;
-   width:170px;
-   height:148px;
-   margin-top:635%;
-   margin-left:1350px;
-   
- }
- .shapes>.hexagon-23{
-  border:solid tomato;
-   width:392px;
-   height:340px;
-   margin-top:650%;
-   margin-left:1600px;
-   
- }
- .shapes>.hexagon-24{
-  border:solid tomato;
-   width:604px;
-   height:523px;
-   margin-top:640%;
-   margin-left:800px;
-   
- }
->>>>>>> d71d93cfd14e281145855774f4fecffca9ee6c82
 
+.shapes>.hexagon-10 {
+  border: solid tomato;
+  width: 607px;
+  height: 526px;
+  margin-top: 343%;
+  margin-left: -135px;
+}
 
+.shapes>.hexagon-11 {
+  border: solid tomato;
+  width: 607px;
+  height: 526px;
+  margin-top: 386%;
+  margin-left: 1350px;
 
+}
 
+.shapes>.hexagon-12 {
+  border: solid tomato;
+  width: 390px;
+  height: 338px;
+  margin-top: 469%;
+  margin-left: 1480px;
+
+}
+
+.shapes>.hexagon-13 {
+  border: solid tomato;
+  width: 563px;
+  height: 488px;
+  margin-top: 425%;
+  margin-left: -70px;
+
+}
+
+.shapes>.hexagon-14 {
+  border: solid tomato;
+  width: 529px;
+  height: 458px;
+  margin-top: 505%;
+  margin-left: 100px;
+
+}
+
+.shapes>.hexagon-15 {
+  border: solid tomato;
+  width: 241px;
+  height: 209px;
+  margin-top: 575%;
+  margin-left: 0px;
+
+}
+
+.shapes>.hexagon-16 {
+  border: solid tomato;
+  width: 422px;
+  height: 366px;
+  margin-top: 558%;
+  margin-left: 1501px;
+
+}
+
+.shapes>.hexagon-17 {
+  border: solid tomato;
+  width: 529px;
+  height: 458px;
+  margin-top: 502%;
+  margin-left: 1500px;
+
+}
+
+.shapes>.hexagon-18 {
+  border: solid tomato;
+  width: 549px;
+  height: 476px;
+  margin-top: 592%;
+  margin-left: -105px;
+
+}
+
+.shapes>.hexagon-19 {
+  border: solid tomato;
+  width: 279px;
+  height: 242px;
+  margin-top: 619%;
+  margin-left: 380px;
+
+}
+
+.shapes>.hexagon-20 {
+  border: solid tomato;
+  width: 306px;
+  height: 265px;
+  margin-top: 595%;
+  margin-left: 1660px;
+
+}
+
+.shapes>.hexagon-21 {
+  border: solid tomato;
+  width: 529px;
+  height: 458px;
+  margin-top: 621%;
+  margin-left: 1500px;
+
+}
+
+.shapes>.hexagon-22 {
+  border: solid tomato;
+  width: 170px;
+  height: 148px;
+  margin-top: 635%;
+  margin-left: 1350px;
+
+}
+
+.shapes>.hexagon-23 {
+  border: solid tomato;
+  width: 392px;
+  height: 340px;
+  margin-top: 650%;
+  margin-left: 1600px;
+
+}
+
+.shapes>.hexagon-24 {
+  border: solid tomato;
+  width: 604px;
+  height: 523px;
+  margin-top: 640%;
+  margin-left: 800px;
+}
 
 .txt_1_1 {
   position: absolute;
@@ -577,7 +591,7 @@ body {
 }
 
 .section-11 {
-  position:relative;
+  position: relative;
 }
 
 .section-11>div:first-child {
@@ -588,8 +602,8 @@ body {
 .section-11>div:last-child {
   width: 627px;
   position: absolute;
-  top:950px;
-  left:auto;
+  top: 950px;
+  left: auto;
   right: 150px;
 }
 
