@@ -378,9 +378,8 @@ body {
 }
 
 .section-10 {
-  margin-top: 120px;
   position: relative;
-  height: 1550px;
+  height: 1450px;
 }
 
 .section-10 > div:first-child {
@@ -394,10 +393,6 @@ body {
   position:absolute;
   top:400px;
   left:150px;
-}
-
-.section-11 {
-  margin-top: 120px;
 }
 
 .section-11 > div:first-child {
