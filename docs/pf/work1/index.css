@@ -169,7 +169,6 @@ body {
 
 
 .txt_1_1 {
-  border: 1px solid red;
   position: absolute;
   width: 789px;
   margin: 0 300px;
@@ -177,7 +176,6 @@ body {
 }
 
 .bn_1_1 {
-  border: 1px solid blue;
   width: 708px;
   position: absolute;
   left: auto;
@@ -188,20 +186,17 @@ body {
 }
 
 .txt_1_2 {
-  border: 1px solid purple;
   width: 1017px;
   margin: 180px 100px;
 }
 
 .txt_2_1 {
-  border: 1px solid black;
   width: 1613px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .txt_2_2 {
-  border: 1px solid darkblue;
   width: 1721px;
   margin-left: auto;
   margin-right: auto;
@@ -209,14 +204,12 @@ body {
 }
 
 .section-3 {
-  border: 10px solid red;
   width: 100%;
   height: 1150px;
   position: relative;
 }
 
 .txt_3_1 {
-  border: 1px solid yellow;
   width: 337px;
   margin-left: auto;
   margin-right: auto;
@@ -224,14 +217,12 @@ body {
 }
 
 .txt_3_2 {
-  border: 1px solid orange;
   width: 1084px;
   margin-left: 130px;
   margin-top: 30px;
 }
 
 .bn_2_1 {
-  border: 1px solid darkcyan;
   width: 500px;
   position: absolute;
   top: 100px;
@@ -242,22 +233,19 @@ body {
 }
 
 .txt_3_3 {
-  border: 1px solid darkviolet;
   width: 515px;
   margin-left: 130px;
   margin-top: 30px;
 }
 
 .txt_3_4 {
-  border: 1px solid deeppink;
   width: 520px;
   margin-left: 750px;
   position: absolute;
-  bottom: 25px;
+  bottom: 167px;
 }
 
 .section-6>div {
-  border: 2px solid red;
   margin-top: 120px;
 }
 
@@ -270,17 +258,14 @@ body {
 .section-4 {
   position: relative;
   height: 2860px;
-  border:10px solid gold;
 }
 
 .bn_3_1 {
-  border: 2px solid white;
   margin-top: 120px;
   width: 1920px;
 }
 
 .txt_4_1{
-  border: 1px solid blue;
   width: 258px;
   left: 0;
   right: 0;
@@ -290,7 +275,6 @@ body {
 }
 
 .bn_4_1{
-  border: 1px solid brown;
   width: 642px;
   top:1250px;
   left: 0;
@@ -302,7 +286,6 @@ body {
 }
 
 .bn_4_2{
-  border:1px solid coral;
   width: 1276px;
   margin-top: 100px;
   margin-left: 120px;
@@ -311,7 +294,6 @@ body {
 .section-5_1 {
   position:relative;
   height: :1000px;
-  border:5px solid red;
 }
 
 .bn_5_1{
@@ -332,7 +314,6 @@ body {
 }
 
 .bn_5_4{
-  border: 10px solid;
   width: 536px;
   top:-150px;
   left: 0;
