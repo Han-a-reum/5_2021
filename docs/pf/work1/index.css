@@ -38,23 +38,9 @@ body {
   height: 533px;
 }
 
-<<<<<<< HEAD
-.shapes>.hexagon-2 {
-  border: solid tomato;
-  width: 253px;
-  height: 219px;
-  margin-top: 830px;
-  margin-left: 180px;
-}
-
-.shapes>.hexagon-3 {
-  border: solid tomato;
-  width: 491px;
-=======
 .shapes>.hexagon-2{
   border:solid tomato;
   width:491px;
->>>>>>> d71d93cfd14e281145855774f4fecffca9ee6c82
   height: 425px;
   margin-top: 920px;
   margin-left: 1330px;
