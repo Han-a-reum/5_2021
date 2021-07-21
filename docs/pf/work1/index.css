@@ -314,14 +314,15 @@ body {
 .txt_3_3 {
   width: 515px;
   margin-left: 130px;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .txt_3_4 {
   width: 520px;
   margin-left: 750px;
   position: absolute;
-  bottom: 167px;
+  left:0;
+  bottom: 151px;
 }
 
 .section-6>div {
@@ -329,6 +330,7 @@ body {
   width: 1830px;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 }
 
 .section-6>div>img {
@@ -380,6 +382,7 @@ body {
   width: 496px;
   margin-left: 100px;
   margin-top: 200px;
+  position: relative;
 }
 
 .bn_5_2 {
@@ -421,7 +424,8 @@ body {
 }
 
 .section-7>div>img {
-  width: 100% display: block;
+  width: 100%;
+  display: block;
 }
 
 .section-8 {
@@ -432,6 +436,7 @@ body {
 .section-8>div:first-child {
   width: 585px;
   margin-left: 75px;
+  position: relative;
 }
 
 .section-8>div:last-child {
@@ -448,6 +453,7 @@ body {
   width: 1750px;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 }
 
 .section-9>div:nth-child(2) {
@@ -464,6 +470,7 @@ body {
   width: 1083px;
   margin-left: auto;
   margin-right: 150px;
+  position: relative;
 }
 
 .section-10>div:last-child {
@@ -492,4 +499,58 @@ body {
 
 .section-ft {
   margin-top: 150px;
+}
+
+.mp4 {
+  position: absolute;
+  z-index: -1;
+}
+
+video {
+  width: 100%;
+}
+
+.mp4_1 {
+  width: 426px;
+  top:31px;
+  left:37px;
+  z-index: -1;
+}
+
+.mp4_2 {
+  width: 423px;
+  top:31px;
+  left:36px;
+  z-index: -1;
+}
+
+.mp4_3 {
+  width: 423px;
+  top:33px;
+  left:76px;
+  z-index: -1;
+}
+
+.mp4_4 {
+  width: 423px;
+  top:165px;
+  left:674px;
+}
+
+.mp4_5 {
+  width: 405px;
+  top:125px;
+  left:35px;
+}
+
+.mp4_6 {
+  width: 427px;
+  top:62px;
+  left:534px;
+}
+
+.mp4_7 {
+  width: 424px;
+  top:31px;
+  left:624px;
 }
