@@ -1,16 +1,15 @@
 :root {
-  --site-width: calc(1920px - 16px);
+  --site-width: calc(1920px);
 }
 
-html {
-  overflow-x: hidden;
+img{
+  display: block;
 }
 
 body {
   background-image: linear-gradient(to bottom, #BAE7FF 0%, #fff 50%, #9254DE 100%);
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
-  overflow-x: hidden;
   /* 임시 */
   min-height: 20500px;
 }
