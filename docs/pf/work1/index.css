@@ -69,8 +69,8 @@ body {
   border:solid tomato;
   width:278px;
   height:240px;
-  margin-top:204%;
-  margin-left: 1240px;
+  margin-top:212%;
+  margin-left: 1205px;
 }
 .shapes>.hexagon-7{
   border:solid tomato;
@@ -91,7 +91,7 @@ body {
   width:355px;
   height:307px;
   margin-top:358%;
-  margin-left:8px;
+  margin-left:800px;
 }
 .shapes>.hexagon-10{
   border:solid tomato;
@@ -101,7 +101,7 @@ body {
    margin-left:-135px;
  }
  .shapes>.hexagon-11{
-  border:solid tomato;
+  
    width:607px;
    height:526px;
    margin-top:409%;
@@ -180,6 +180,72 @@ body {
    margin-left:490px;
    
  }
+ .shapes>.hexagon-21{
+  border:solid tomato;
+   width:306px;
+   height:265px;
+   margin-top:620%;
+   margin-left:1630px;
+   
+ }
+ .shapes>.hexagon-22{
+  border:solid tomato;
+   width:529px;
+   height:458px;
+   margin-top:660%;
+   margin-left:1405px;
+   
+ }
+ .shapes>.hexagon-23{
+  border:solid tomato;
+   width:392px;
+   height:340px;
+   margin-top:693%;
+   margin-left:1600px;
+   
+ }
+ .shapes>.hexagon-24{
+  border:solid tomato;
+   width:604px;
+   height:523px;
+   margin-top:730%;
+   margin-left:10px;
+   
+ }
+ .shapes>.hexagon-25{
+  border:solid tomato;
+   width:413px;
+   height:358px;
+   margin-top:782%;
+   margin-left:-40px;
+   
+ }
+ .shapes>.hexagon-26{
+  border:solid tomato;
+   width:916px;
+   height:794px;
+   margin-top:772%;
+   margin-left:1050px;
+   
+ }
+ .shapes>.hexagon-27{
+  border:solid tomato;
+   width:333px;
+   height:288px;
+   margin-top:830%;
+   margin-left:1670px;
+   
+ }
+ .shapes>.hexagon-28{
+  border:solid tomato;
+   width:493px;
+   height:427px;
+   margin-top:825%;
+   margin-left:0px;
+   
+ }
+
+
 
 .txt_1_1 {
   position: absolute;
@@ -243,13 +309,6 @@ body {
   right: 0;
   margin-left: auto;
   margin-right: 130px;
-}
-
-/* 비디오 작업 */
-.bn_2_1 > video {
-  margin-top: -1020px;
-  margin-left: 35px;
-  width: 440px;
 }
 
 .txt_3_3 {
@@ -389,7 +448,6 @@ body {
   width: 1750px;
   margin-left: auto;
   margin-right: auto;
-  margin-left: 90px;
 }
 
 .section-9>div:nth-child(2) {
