@@ -29,6 +29,7 @@ body {
   top: 100px;
   left: 100px;
 }
+
 /* 메인 배너 도형들 배치 */
 .shapes>.hexagon-1 {
   border: solid tomato;
@@ -45,6 +46,7 @@ body {
   margin-top: 920px;
   margin-left: 1330px;
 }
+
 /* 메인 배너 도형들 배치 끝 */
 
 /* 페르소나 도형들 배치 */
@@ -65,6 +67,7 @@ body {
 
   /* 페르소나 도형들 배치 끝 */
 }
+
 /* 디자인 시스템 쪽 도형들 배치 */
 .shapes>.hexagon-5 {
   border: solid tomato;
@@ -81,6 +84,7 @@ body {
   margin-top: 212%;
   margin-left: 1205px;
 }
+
 /* 디자인 시스템 쪽 도형들 배치 끝 */
 
 /* 어플 디자인 쪽 도형들 */
@@ -151,6 +155,7 @@ body {
   margin-left: 10px;
 
 }
+
 /* 그룹 생성 및 즐겨찾기 추천루틴 도형들 배치끝 */
 
 /* 나만의 습관 등록하기 도형들  */
@@ -260,6 +265,7 @@ body {
   margin-left: 10px;
 
 }
+
 /* 메모 추가하기 메모 모아보기 배치 끝 */
 
 /* 캐릭터 선택 및 달성도 화면 배치 */
@@ -280,6 +286,7 @@ body {
   margin-left: 1050px;
 
 }
+
 /* 캐릭터 선택 및 달성도 화면 끝 */
 
 /* 캐릭터 성장 도형들 배치 */
@@ -301,6 +308,7 @@ body {
   margin-left: 0px;
 
 }
+
 /* 캐릭터 성장 도형들 배치 끝 */
 
 /* 환경설정 및 팝업 알림 배치 */
@@ -355,6 +363,10 @@ body {
 
 /* 취업 마지막  배치 끝 */
 
+
+
+
+/* section-1 : 타이틀, 목업 이미지, 오버뷰 */
 .txt_1_1 {
   position: absolute;
   width: 789px;
@@ -377,6 +389,7 @@ body {
   margin: 180px 100px;
 }
 
+/* section-2 : 프로젝트골, 페르소나 */
 .txt_2_1 {
   width: 1613px;
   margin-left: auto;
@@ -390,6 +403,7 @@ body {
   margin-top: 120px;
 }
 
+/* section-3 : 디자인 시스템(로고, 컬러, 타이포, 시작화면 mp4) */
 .section-3 {
   width: 100%;
   height: 1150px;
@@ -433,6 +447,7 @@ body {
   bottom: 151px;
 }
 
+/* section-6 : 습관 등록하기 */
 .section-6>div {
   margin-top: 120px;
   width: 1830px;
@@ -445,6 +460,7 @@ body {
   width: 100%;
 }
 
+/* section-4 : 와이어프레임, 로그인 화면, 스플래쉬 화면 */
 .section-4 {
   position: relative;
   height: 2860px;
@@ -478,9 +494,10 @@ body {
 .bn_4_2 {
   width: 1276px;
   margin-top: 100px;
-  margin-left: 120px;
+  margin-left: 50px;
 }
 
+/* section-5 : 홈화면, 즐겨찾기와 추천루틴, 그룹 생성 */
 .section-5_1 {
   position: relative;
   height: :1000px;
@@ -513,6 +530,7 @@ body {
   margin-bottom: 2200px;
 }
 
+/* section-7 : 달력 화면 */
 .section-7 {
   margin-top: 120px;
   display: flex;
@@ -536,6 +554,7 @@ body {
   display: block;
 }
 
+/* section-8 : 메모 */
 .section-8 {
   margin-top: 120px;
   display: flex;
@@ -553,6 +572,7 @@ body {
   margin-right: 50px;
 }
 
+/* section-9 : 캐릭터, 달성도 화면 */
 .section-9 {
   margin-top: 120px;
 }
@@ -569,6 +589,7 @@ body {
   width: 1920px;
 }
 
+/* section-10 : 환경설정, 위젯 1 */
 .section-10 {
   position: relative;
   height: 1450px;
@@ -588,6 +609,7 @@ body {
   left: 150px;
 }
 
+/* section-11 : 위젯 2, 팝업 알림 */
 .section-11 {
   position: relative;
 }
@@ -609,6 +631,7 @@ body {
   margin-top: 150px;
 }
 
+/* mp4 작업 */
 .mp4 {
   position: absolute;
   z-index: -1;
