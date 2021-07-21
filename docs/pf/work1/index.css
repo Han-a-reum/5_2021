@@ -11,7 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
   /* 임시 */
-  min-height: 20300px;
+  min-height: 20250px;
 }
 
 .site-wrap {
