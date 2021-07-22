@@ -141,6 +141,7 @@ body {
 
 
 .shapes>.hexagon-13 {
+  border:5px solid pink;
   width: 563px;
   height: 488px;
   margin-top: 430%;
@@ -169,6 +170,7 @@ body {
 
 
 .shapes>.hexagon-17 {
+  border:5px solid blue;
   width: 300px;
   height: 458px;
   margin-top: 532%;
@@ -177,6 +179,7 @@ body {
 }
 
 .shapes>.hexagon-18 {
+  border:5px solid skyblue;
   width: 422px;
   height: 366px;
   margin-top: 585%;
@@ -249,6 +252,7 @@ body {
 }
 
 .shapes>.hexagon-26 {
+  border:5px solid yellowgreen;
   width: 400px;
   height: 794px;
   margin-top: 760%;
