@@ -49,7 +49,6 @@ body {
 
 /* 페르소나 도형들 배치 */
 .shapes>.hexagon-3 {
-  border:5px solid tomato;
   width: 500px;
   height: 628px;
   margin-top: 103%;
@@ -67,7 +66,6 @@ body {
 
 /* 디자인 시스템 쪽 도형들 배치 */
 .shapes>.hexagon-5 {
-  border:5px solid yellow;
   width: 375px;
   height: 325px;
   margin-top: 165%;
@@ -92,7 +90,6 @@ body {
 }
 
 .shapes>.hexagon-8 {
-  border:5px solid orange;
   width: 444px;
   height: 385px;
   margin-top: 358%;
@@ -118,7 +115,6 @@ body {
 
 /* 홈화면 쪽 도형들  */
 .shapes>.hexagon-11 {
-  border:5px solid green;
   width: 607px;
   height: 526px;
   margin-top: 409%;
@@ -141,7 +137,6 @@ body {
 
 
 .shapes>.hexagon-13 {
-  border:5px solid pink;
   width: 563px;
   height: 488px;
   margin-top: 430%;
@@ -170,16 +165,13 @@ body {
 
 
 .shapes>.hexagon-17 {
-  border:5px solid blue;
   width: 300px;
   height: 458px;
   margin-top: 532%;
-  margin-left: 1620px;
-
+  margin-left: 1500px;
 }
 
 .shapes>.hexagon-18 {
-  border:5px solid skyblue;
   width: 422px;
   height: 366px;
   margin-top: 585%;
@@ -252,7 +244,6 @@ body {
 }
 
 .shapes>.hexagon-26 {
-  border:5px solid yellowgreen;
   width: 400px;
   height: 794px;
   margin-top: 760%;
@@ -267,8 +258,6 @@ body {
   height: 288px;
   margin-top: 830%;
   margin-left: 1670px;
-
-  border: 1px solid red;
 }
 
 
