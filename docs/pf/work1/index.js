@@ -13,7 +13,7 @@ gsap.to('.txt_1_1', {
   },
 });
 
-// 오버뷰
+// 핸드폰 목업
 gsap.to('.bn_1_1', {
   y:100,
   opacity:1,
@@ -64,9 +64,9 @@ gsap.to('.txt_3_2', {
 gsap.to('.txt_3_3', {
   opacity:1,
   duration:2,
-  delay:1,
+  delay:0.8,
   scrollTrigger:{
-    trigger:'.txt_3_3',
+    trigger:'.txt_3_2',
     markers:true,
     start:'0% 100%',
     end:'100% 0',
@@ -77,9 +77,9 @@ gsap.to('.txt_3_3', {
 gsap.to('.txt_3_4', {
   opacity:1,
   duration:2,
-  delay:2,
+  delay:1.6,
   scrollTrigger:{
-    trigger:'.txt_3_4',
+    trigger:'.txt_3_2',
     markers:true,
     start:'0% 100%',
     end:'100% 0',
@@ -93,7 +93,7 @@ gsap.to('.bn_3_1', {
   scrollTrigger:{
     trigger:'.bn_3_1',
     markers:true,
-    start:'0% 100%',
+    start:'20% 100%',
     end:'100% 0',
   },
 });
@@ -119,7 +119,7 @@ gsap.to('.bn_4_2', {
   scrollTrigger:{
     trigger:'.bn_4_2',
     markers:true,
-    start:'100% 100%',
+    start:'50% 100%',
     end:'100% 0',
   },
 });
@@ -193,6 +193,7 @@ gsap.to('.section-11>div:first-child', {
   y:300,
   opacity:1,
   duration:2,
+  delay:0.3,
   scrollTrigger:{
     trigger:'.section-11>div:first-child',
     markers:true,
@@ -207,6 +208,7 @@ gsap.to('.section-11>div:last-child', {
   y:600,
   opacity:1,
   duration:2,
+  delay:0.3,
   scrollTrigger:{
     trigger:'.section-11>div:last-child',
     markers:true,
