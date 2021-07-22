@@ -138,7 +138,7 @@ body {
 .shapes>.hexagon-13 {
   width: 563px;
   height: 488px;
-  margin-top: 448%;
+  margin-top: 430%;
   margin-left: 10px;
 
 }
@@ -148,10 +148,9 @@ body {
 /* 나만의 습관 등록하기 도형들  */
 
 .shapes>.hexagon-14 {
-  width: 529px;
-  height: 458px;
-  margin-top: 530%;
-  margin-left: 70px;
+  width: 350px;
+  height: 650px;
+  margin-top: 520%;
 
 }
 
@@ -163,19 +162,12 @@ body {
 
 }
 
-.shapes>.hexagon-16 {
-  width: 422px;
-  height: 366px;
-  margin-top: 558%;
-  margin-left: 1501px;
-
-}
 
 .shapes>.hexagon-17 {
-  width: 529px;
+  width: 300px;
   height: 458px;
-  margin-top: 528%;
-  margin-left: 1380px;
+  margin-top: 532%;
+  margin-left: 1620px;
 
 }
 
@@ -254,10 +246,10 @@ body {
 }
 
 .shapes>.hexagon-26 {
-  width: 916px;
+  width: 400px;
   height: 794px;
-  margin-top: 772%;
-  margin-left: 1050px;
+  margin-top: 760%;
+  margin-left: 1501px;
 
 }
 
@@ -644,9 +636,9 @@ video {
 }
 
 .mp4_6 {
-  width: 427px;
-  top: 62px;
-  left: 534px;
+  width: 424px;
+  top: 63px;
+  left: 535px;
 }
 
 .mp4_7 {
