@@ -71,7 +71,7 @@ body {
   width: 375px;
   height: 325px;
   margin-top: 165%;
-  margin-left: 1545px;
+  margin-left: 1546px;
 }
 
 .shapes>.hexagon-6 {
@@ -92,6 +92,7 @@ body {
 }
 
 .shapes>.hexagon-8 {
+  border:5px solid orange;
   width: 444px;
   height: 385px;
   margin-top: 358%;
@@ -99,6 +100,7 @@ body {
 }
 
 .shapes>.hexagon-9 {
+  
   width: 355px;
   height: 307px;
   margin-top: 358%;
@@ -106,6 +108,7 @@ body {
 }
 
 .shapes>.hexagon-10 {
+ 
   width: 607px;
   height: 526px;
   margin-top: 343%;
@@ -116,6 +119,7 @@ body {
 
 /* 홈화면 쪽 도형들  */
 .shapes>.hexagon-11 {
+  border:5px solid green;
   width: 607px;
   height: 526px;
   margin-top: 409%;
