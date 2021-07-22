@@ -32,7 +32,6 @@ body {
 
 /* 메인 배너 도형들 배치 */
 .shapes>.hexagon-1 {
-  border: solid tomato;
   margin-top: 450px;
   margin-left: -230px;
   width: 616px;
@@ -40,7 +39,6 @@ body {
 }
 
 .shapes>.hexagon-2 {
-  border: solid tomato;
   width: 491px;
   height: 425px;
   margin-top: 920px;
@@ -51,7 +49,6 @@ body {
 
 /* 페르소나 도형들 배치 */
 .shapes>.hexagon-3 {
-  border: solid tomato;
   width: 725px;
   height: 628px;
   margin-top: 103%;
@@ -59,7 +56,6 @@ body {
 }
 
 .shapes>.hexagon-4 {
-  border: solid tomato;
   width: 406px;
   height: 352px;
   margin-top: 105%;
@@ -70,7 +66,6 @@ body {
 
 /* 디자인 시스템 쪽 도형들 배치 */
 .shapes>.hexagon-5 {
-  border: solid tomato;
   width: 375px;
   height: 325px;
   margin-top: 165%;
@@ -78,7 +73,6 @@ body {
 }
 
 .shapes>.hexagon-6 {
-  border: solid tomato;
   width: 278px;
   height: 240px;
   margin-top: 212%;
@@ -89,7 +83,6 @@ body {
 
 /* 어플 디자인 쪽 도형들 */
 .shapes>.hexagon-7 {
-  border: solid tomato;
   width: 427px;
   height: 369px;
   margin-top: 303%;
@@ -97,7 +90,6 @@ body {
 }
 
 .shapes>.hexagon-8 {
-  border: solid tomato;
   width: 444px;
   height: 385px;
   margin-top: 358%;
@@ -105,7 +97,6 @@ body {
 }
 
 .shapes>.hexagon-9 {
-  border: solid tomato;
   width: 355px;
   height: 307px;
   margin-top: 358%;
@@ -113,7 +104,6 @@ body {
 }
 
 .shapes>.hexagon-10 {
-  border: solid tomato;
   width: 607px;
   height: 526px;
   margin-top: 343%;
@@ -124,7 +114,6 @@ body {
 
 /* 홈화면 쪽 도형들  */
 .shapes>.hexagon-11 {
-
   width: 607px;
   height: 526px;
   margin-top: 409%;
@@ -138,7 +127,6 @@ body {
 /* 그룹 생성 및 즐겨찾기 추천루틴 도형들 배치 */
 
 .shapes>.hexagon-12 {
-  border: solid tomato;
   width: 390px;
   height: 338px;
   margin-top: 505%;
@@ -148,7 +136,6 @@ body {
 
 
 .shapes>.hexagon-13 {
-  border: solid tomato;
   width: 563px;
   height: 488px;
   margin-top: 448%;
@@ -161,7 +148,6 @@ body {
 /* 나만의 습관 등록하기 도형들  */
 
 .shapes>.hexagon-14 {
-  border: solid tomato;
   width: 529px;
   height: 458px;
   margin-top: 530%;
@@ -170,7 +156,6 @@ body {
 }
 
 .shapes>.hexagon-15 {
-  border: solid tomato;
   width: 241px;
   height: 209px;
   margin-top: 600%;
@@ -179,7 +164,6 @@ body {
 }
 
 .shapes>.hexagon-16 {
-  border: solid tomato;
   width: 422px;
   height: 366px;
   margin-top: 558%;
@@ -188,7 +172,6 @@ body {
 }
 
 .shapes>.hexagon-17 {
-  border: solid tomato;
   width: 529px;
   height: 458px;
   margin-top: 528%;
@@ -197,7 +180,6 @@ body {
 }
 
 .shapes>.hexagon-18 {
-  border: solid tomato;
   width: 422px;
   height: 366px;
   margin-top: 585%;
@@ -210,7 +192,6 @@ body {
 /* 달력 화면 도형들 */
 
 .shapes>.hexagon-19 {
-  border: solid tomato;
   width: 549px;
   height: 476px;
   margin-top: 620%;
@@ -219,7 +200,6 @@ body {
 }
 
 .shapes>.hexagon-20 {
-  border: solid tomato;
   width: 279px;
   height: 242px;
   margin-top: 645%;
@@ -228,7 +208,6 @@ body {
 }
 
 .shapes>.hexagon-21 {
-  border: solid tomato;
   width: 306px;
   height: 265px;
   margin-top: 620%;
@@ -237,7 +216,6 @@ body {
 }
 
 .shapes>.hexagon-22 {
-  border: solid tomato;
   width: 529px;
   height: 458px;
   margin-top: 660%;
@@ -249,7 +227,6 @@ body {
 
 /* 메모 추가하기 메모 모아보기 배치 */
 .shapes>.hexagon-23 {
-  border: solid tomato;
   width: 392px;
   height: 340px;
   margin-top: 693%;
@@ -258,7 +235,6 @@ body {
 }
 
 .shapes>.hexagon-24 {
-  border: solid tomato;
   width: 604px;
   height: 523px;
   margin-top: 730%;
@@ -270,7 +246,6 @@ body {
 
 /* 캐릭터 선택 및 달성도 화면 배치 */
 .shapes>.hexagon-25 {
-  border: solid tomato;
   width: 413px;
   height: 358px;
   margin-top: 782%;
@@ -279,7 +254,6 @@ body {
 }
 
 .shapes>.hexagon-26 {
-  border: solid tomato;
   width: 916px;
   height: 794px;
   margin-top: 772%;
@@ -291,7 +265,6 @@ body {
 
 /* 캐릭터 성장 도형들 배치 */
 .shapes>.hexagon-27 {
-  border: solid tomato;
   width: 333px;
   height: 288px;
   margin-top: 830%;
@@ -301,7 +274,6 @@ body {
 
 
 .shapes>.hexagon-28 {
-  border: solid tomato;
   width: 493px;
   height: 427px;
   margin-top: 825%;
@@ -313,7 +285,6 @@ body {
 
 /* 환경설정 및 팝업 알림 배치 */
 .shapes>.hexagon-29 {
-  border: solid tomato;
   width: 469px;
   height: 406px;
   margin-top: 897%;
@@ -322,7 +293,6 @@ body {
 }
 
 .shapes>.hexagon-30 {
-  border: solid tomato;
   width: 675px;
   height: 585px;
   margin-top: 890%;
@@ -331,7 +301,6 @@ body {
 }
 
 .shapes>.hexagon-31 {
-  border: solid tomato;
   width: 505px;
   height: 437px;
   margin-top: 855%;
@@ -344,7 +313,6 @@ body {
 
 /* 취업 마지막  배치  */
 .shapes>.hexagon-32 {
-  border: solid tomato;
   width: 369px;
   height: 319px;
   margin-top: 955%;
@@ -353,7 +321,6 @@ body {
 }
 
 .shapes>.hexagon-33 {
-  border: solid tomato;
   width: 495px;
   height: 429px;
   margin-top: 955%;
