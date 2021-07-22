@@ -9,7 +9,7 @@ gsap.to('.txt_1_1', {
   duration:2,
   scrollTrigger:{
     trigger:'.txt_1_1',
-    markers:true,
+    markers:false,
   },
 });
 
@@ -20,7 +20,7 @@ gsap.to('.bn_1_1', {
   duration:2,
   scrollTrigger:{
     trigger:'.bn_1_1',
-    markers:true,
+    markers:false,
   },
 });
 
@@ -30,7 +30,7 @@ gsap.to('.txt_2_1', {
   duration:2,
   scrollTrigger:{
     trigger:'.txt_2_1',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -42,7 +42,7 @@ gsap.to('.txt_2_2', {
   duration:2,
   scrollTrigger:{
     trigger:'.txt_2_2',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -54,7 +54,7 @@ gsap.to('.txt_3_2', {
   duration:2,
   scrollTrigger:{
     trigger:'.txt_3_2',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -67,7 +67,7 @@ gsap.to('.txt_3_3', {
   delay:0.8,
   scrollTrigger:{
     trigger:'.txt_3_2',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -80,7 +80,7 @@ gsap.to('.txt_3_4', {
   delay:1.6,
   scrollTrigger:{
     trigger:'.txt_3_2',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -92,7 +92,7 @@ gsap.to('.bn_3_1', {
   duration:2,
   scrollTrigger:{
     trigger:'.bn_3_1',
-    markers:true,
+    markers:false,
     start:'20% 100%',
     end:'100% 0',
   },
@@ -105,7 +105,7 @@ gsap.to('.bn_4_1', {
   duration:2,
   scrollTrigger:{
     trigger:'.bn_4_1',
-    markers:true,
+    markers:false,
     start:'100% 100%',
     end:'100% 0',
   },
@@ -118,7 +118,7 @@ gsap.to('.bn_4_2', {
   duration:2,
   scrollTrigger:{
     trigger:'.bn_4_2',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -131,7 +131,7 @@ gsap.to('.cal-1', {
   duration:2,
   scrollTrigger:{
     trigger:'.cal-1',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -144,7 +144,7 @@ gsap.to('.cal-2', {
   duration:2,
   scrollTrigger:{
     trigger:'.cal-2',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -157,7 +157,7 @@ gsap.to('.cal-3', {
   duration:2,
   scrollTrigger:{
     trigger:'.cal-3',
-    markers:true,
+    markers:false,
     start:'0% 100%',
     end:'100% 0',
   },
@@ -169,7 +169,7 @@ gsap.to('.section-9>div:nth-child(2)', {
   duration:2,
   scrollTrigger:{
     trigger:'.section-9>div:nth-child(2)',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -182,7 +182,7 @@ gsap.to('.section-10>div:last-child', {
   duration:2,
   scrollTrigger:{
     trigger:'.section-10>div:last-child',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -196,7 +196,7 @@ gsap.to('.section-11>div:first-child', {
   delay:0.3,
   scrollTrigger:{
     trigger:'.section-11>div:first-child',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
@@ -211,7 +211,7 @@ gsap.to('.section-11>div:last-child', {
   delay:0.3,
   scrollTrigger:{
     trigger:'.section-11>div:last-child',
-    markers:true,
+    markers:false,
     start:'50% 100%',
     end:'100% 0',
   },
