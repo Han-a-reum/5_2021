@@ -338,7 +338,8 @@ body {
   position: absolute;
   width: 789px;
   margin: 0 300px;
-  margin-top: -100px;
+  margin-top: -200px;
+  opacity: 0;
 }
 
 .bn_1_1 {
@@ -354,6 +355,7 @@ body {
 .txt_1_2 {
   width: 1017px;
   margin: 180px 100px;
+  opacity: 0;
 }
 
 /* section-2 : 프로젝트골, 페르소나 */
