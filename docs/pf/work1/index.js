@@ -124,6 +124,45 @@ gsap.to('.bn_4_2', {
   },
 });
 
+// 달력1
+gsap.to('.cal-1', {
+  x:430,
+  opacity:1,
+  duration:2,
+  scrollTrigger:{
+    trigger:'.cal-1',
+    markers:true,
+    start:'0% 100%',
+    end:'100% 0',
+  },
+});
+
+// 달력2
+gsap.to('.cal-2', {
+  y:250,
+  opacity:1,
+  duration:2,
+  scrollTrigger:{
+    trigger:'.cal-2',
+    markers:true,
+    start:'0% 100%',
+    end:'100% 0',
+  },
+});
+
+// 달력3
+gsap.to('.cal-3', {
+  x:-430,
+  opacity:1,
+  duration:2,
+  scrollTrigger:{
+    trigger:'.cal-3',
+    markers:true,
+    start:'0% 100%',
+    end:'100% 0',
+  },
+});
+
 // 캐릭터 성장
 gsap.to('.section-9>div:nth-child(2)', {
   opacity:1,

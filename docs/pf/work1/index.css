@@ -502,20 +502,29 @@ body {
   display: flex;
   width: 100%;
   justify-content: center;
+  position: relative;
+  height: 1240px;
 }
 
 .section-7>div:first-child,
 .section-7>div:last-child {
   width: 496px;
-  margin-top: 150px;
-  opacity: 1; /* 기본 값 1 */
+  opacity: 0; /* 기본 값 1 */
+  position: absolute;
+  top:150px;
+  left:-300px; /* 기본 값 80px */
+}
+
+.section-7>div:last-child {
+  left:auto;
+  right:-300px; /* 기본 값 80px */
 }
 
 .section-7>div:nth-child(2) {
   width: 604px;
-  margin: 0 50px;
-  opacity: 1; /* 기본 값 1 */
-}
+  opacity: 0; /* 기본 값 1 */
+  margin-top: -200px; /* 기본 값 없음 */
+} 
 
 .section-7>div>img {
   width: 100%;
@@ -556,7 +565,6 @@ body {
   margin-top: 120px; /* 기본 값 120px */
   width: 1920px;
   opacity: 0; /* 기본 값 1 */
-
 }
 
 /* section-10 : 환경설정, 위젯 1 */
