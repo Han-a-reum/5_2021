@@ -49,7 +49,7 @@ body {
 
 /* 페르소나 도형들 배치 */
 .shapes>.hexagon-3 {
-  width: 725px;
+  width: 500px;
   height: 628px;
   margin-top: 103%;
   margin-left: -20px;
@@ -59,7 +59,7 @@ body {
   width: 406px;
   height: 352px;
   margin-top: 105%;
-  margin-left: 1430px;
+  margin-left: 1550px;
 
   /* 페르소나 도형들 배치 끝 */
 }
@@ -148,6 +148,7 @@ body {
 /* 나만의 습관 등록하기 도형들  */
 
 .shapes>.hexagon-14 {
+  border: 2px solid red;
   width: 529px;
   height: 458px;
   margin-top: 530%;
@@ -156,6 +157,7 @@ body {
 }
 
 .shapes>.hexagon-15 {
+  border: 2px solid yellow;
   width: 241px;
   height: 209px;
   margin-top: 600%;
@@ -164,6 +166,7 @@ body {
 }
 
 .shapes>.hexagon-16 {
+  border: 2px solid orange;
   width: 422px;
   height: 366px;
   margin-top: 558%;
@@ -172,6 +175,7 @@ body {
 }
 
 .shapes>.hexagon-17 {
+  border: 2px solid blue;
   width: 529px;
   height: 458px;
   margin-top: 528%;
@@ -180,6 +184,7 @@ body {
 }
 
 .shapes>.hexagon-18 {
+  border: 2px solid purple;
   width: 422px;
   height: 366px;
   margin-top: 585%;
