@@ -384,6 +384,7 @@ body {
   width: 1084px;
   margin-left: 130px;
   margin-top: 30px;
+  opacity: 0; /* 기본 값 1 */
 }
 
 .bn_2_1 {
@@ -400,6 +401,7 @@ body {
   width: 515px;
   margin-left: 130px;
   margin-top: 50px;
+  opacity: 0; /* 기본 값 1 */
 }
 
 .txt_3_4 {
@@ -408,6 +410,7 @@ body {
   position: absolute;
   left: 0;
   bottom: 151px;
+  opacity: 0; /* 기본 값 1 */
 }
 
 /* section-6 : 습관 등록하기 */
@@ -432,6 +435,7 @@ body {
 .bn_3_1 {
   margin-top: 120px;
   width: 1920px;
+  opacity: 0; /* 기본 값 1 */
 }
 
 .txt_4_1 {
@@ -449,15 +453,17 @@ body {
   left: 0;
   right: 0;
   margin-left: auto;
-  margin-right: 120px;
+  margin-right: -240px; /* 기본 값 120px */
   bottom: 4700px;
   position: absolute;
+  opacity: 0; /* 기본 값 1 */
 }
 
 .bn_4_2 {
   width: 1276px;
   margin-top: 100px;
-  margin-left: 50px;
+  margin-left: -850px; /* 기본 값 50px */
+  opacity: 0; /* 기본 값 1 */
 }
 
 /* section-5 : 홈화면, 즐겨찾기와 추천루틴, 그룹 생성 */
@@ -505,11 +511,13 @@ body {
 .section-7>div:last-child {
   width: 496px;
   margin-top: 150px;
+  opacity: 1; /* 기본 값 1 */
 }
 
 .section-7>div:nth-child(2) {
   width: 604px;
   margin: 0 50px;
+  opacity: 1; /* 기본 값 1 */
 }
 
 .section-7>div>img {
@@ -548,8 +556,10 @@ body {
 }
 
 .section-9>div:nth-child(2) {
-  margin-top: 120px;
+  margin-top: 120px; /* 기본 값 120px */
   width: 1920px;
+  opacity: 0; /* 기본 값 1 */
+
 }
 
 /* section-10 : 환경설정, 위젯 1 */
@@ -568,8 +578,9 @@ body {
 .section-10>div:last-child {
   width: 1337px;
   position: absolute;
-  top: 400px;
+  top: 100px; /* 기본 값 400px */
   left: 150px;
+  opacity: 0; /* 기본 값 1 */
 }
 
 /* section-11 : 위젯 2, 팝업 알림 */
@@ -580,6 +591,8 @@ body {
 .section-11>div:first-child {
   width: 496px;
   margin: 0 auto;
+  opacity: 0; /* 기본 값 1 */
+  margin-top: -300px; /* 기본 값 없음 */
 }
 
 .section-11>div:last-child {
@@ -588,10 +601,12 @@ body {
   top: 950px;
   left: auto;
   right: 150px;
+  opacity: 0; /* 기본 값 1 */
+  margin-top: -300px; /* 기본 값 없음 */
 }
 
 .section-ft {
-  margin-top: 150px;
+  margin-top: 425px;
 }
 
 /* mp4 작업 */
