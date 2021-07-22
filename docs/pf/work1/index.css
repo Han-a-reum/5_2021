@@ -49,6 +49,7 @@ body {
 
 /* 페르소나 도형들 배치 */
 .shapes>.hexagon-3 {
+  border:5px solid tomato;
   width: 500px;
   height: 628px;
   margin-top: 103%;
@@ -66,6 +67,7 @@ body {
 
 /* 디자인 시스템 쪽 도형들 배치 */
 .shapes>.hexagon-5 {
+  border:5px solid yellow;
   width: 375px;
   height: 325px;
   margin-top: 165%;
