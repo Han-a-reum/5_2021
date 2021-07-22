@@ -148,7 +148,6 @@ body {
 /* 나만의 습관 등록하기 도형들  */
 
 .shapes>.hexagon-14 {
-  border: 2px solid red;
   width: 529px;
   height: 458px;
   margin-top: 530%;
@@ -157,7 +156,6 @@ body {
 }
 
 .shapes>.hexagon-15 {
-  border: 2px solid yellow;
   width: 241px;
   height: 209px;
   margin-top: 600%;
@@ -166,7 +164,6 @@ body {
 }
 
 .shapes>.hexagon-16 {
-  border: 2px solid orange;
   width: 422px;
   height: 366px;
   margin-top: 558%;
@@ -175,7 +172,6 @@ body {
 }
 
 .shapes>.hexagon-17 {
-  border: 2px solid blue;
   width: 529px;
   height: 458px;
   margin-top: 528%;
@@ -184,7 +180,6 @@ body {
 }
 
 .shapes>.hexagon-18 {
-  border: 2px solid purple;
   width: 422px;
   height: 366px;
   margin-top: 585%;
