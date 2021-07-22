@@ -330,7 +330,7 @@ body {
   position: absolute;
   width: 789px;
   margin: 0 300px;
-  margin-top: -200px;
+  margin-top: -200px; /* 기본 값 -100px */
   opacity: 0;
 }
 
